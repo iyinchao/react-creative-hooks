@@ -1,0 +1,19 @@
+{
+  "name": "react-creative-hooks",
+  "version": "0.0.1",
+  "description": "The creative coding hooks for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyinchao/react-creative-hooks.git"
+  },
+  "author": "iyinchao <yincharles@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iyinchao/react-creative-hooks/issues"
+  },
+  "homepage": "https://github.com/iyinchao/react-creative-hooks#readme"
+}
